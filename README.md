@@ -1,0 +1,1 @@
+# sihate-hpos-snippet
