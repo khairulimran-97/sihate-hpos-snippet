@@ -1,5 +1,5 @@
 add_action( 'woocommerce_thankyou', 'custom_woocommerce_paid_order_status', 10, 1 );
-
+ 
 function custom_woocommerce_paid_order_status( $order_id ) {
     if ( ! $order_id ) {
         return;
